@@ -1,0 +1,12 @@
+# ninja log v5
+18	506	7314408537544683	CMakeFiles/problema_2.dir/Student.cpp.obj	7f76c4a2093890fa
+5	585	7314409966546151	CMakeFiles/problema_2.dir/main.cpp.obj	ed260fadfa3c7eda
+586	843	7314409969046192	problema_2.exe	a2ee686dec3d3c20
+16	541	7314415231888557	CMakeFiles/problema_2.dir/Global.cpp.obj	9898e7eaf35d918
+6	655	7314415233048660	CMakeFiles/problema_2.dir/main.cpp.obj	ed260fadfa3c7eda
+655	2669	7314415253104225	problema_2.exe	31df3eec3ca4e47d
+7	621	7314415818845210	CMakeFiles/problema_2.dir/main.cpp.obj	ed260fadfa3c7eda
+622	888	7314415821475941	problema_2.exe	31df3eec3ca4e47d
+14	508	7314418921735732	CMakeFiles/problema_2.dir/Global.cpp.obj	9898e7eaf35d918
+5	647	7314418923115624	CMakeFiles/problema_2.dir/main.cpp.obj	ed260fadfa3c7eda
+648	941	7314418925935585	problema_2.exe	31df3eec3ca4e47d

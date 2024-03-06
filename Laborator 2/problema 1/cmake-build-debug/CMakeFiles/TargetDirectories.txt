@@ -1,0 +1,3 @@
+C:/Users/ediio/Desktop/clion files/lab2/problema 1/cmake-build-debug/CMakeFiles/problema_1.dir
+C:/Users/ediio/Desktop/clion files/lab2/problema 1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ediio/Desktop/clion files/lab2/problema 1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
