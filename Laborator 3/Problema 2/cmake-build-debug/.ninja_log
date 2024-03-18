@@ -1,0 +1,24 @@
+# ninja log v5
+1	675	7321259270297978	CMakeFiles/Problema_2.dir/main.cpp.obj	d9dafac6765d143e
+11	794	7321259271498084	CMakeFiles/Problema_2.dir/Canvas.cpp.obj	6351b6a136859de5
+795	1244	7321259275898216	Problema_2.exe	c7d940affb77f46d
+6	650	7321260020178347	CMakeFiles/Problema_2.dir/main.cpp.obj	d9dafac6765d143e
+16	770	7321260021388553	CMakeFiles/Problema_2.dir/Canvas.cpp.obj	6351b6a136859de5
+771	1022	7321260023803784	Problema_2.exe	c7d940affb77f46d
+7	1000	7321260919756054	CMakeFiles/Problema_2.dir/Canvas.cpp.obj	6351b6a136859de5
+1001	1262	7321260922116090	Problema_2.exe	c7d940affb77f46d
+6	604	7321262993065331	CMakeFiles/Problema_2.dir/main.cpp.obj	d9dafac6765d143e
+16	792	7321262994932730	CMakeFiles/Problema_2.dir/Canvas.cpp.obj	6351b6a136859de5
+793	1072	7321262997652040	Problema_2.exe	c7d940affb77f46d
+8	1022	7321263683653854	CMakeFiles/Problema_2.dir/main.cpp.obj	d9dafac6765d143e
+1023	1247	7321263685803853	Problema_2.exe	c7d940affb77f46d
+8	589	7321263895186375	CMakeFiles/Problema_2.dir/main.cpp.obj	d9dafac6765d143e
+590	824	7321263897446257	Problema_2.exe	c7d940affb77f46d
+10	1092	7321266170357755	CMakeFiles/Problema_2.dir/Canvas.cpp.obj	6351b6a136859de5
+1093	1417	7321266173341518	Problema_2.exe	c7d940affb77f46d
+8	595	7321268123564373	CMakeFiles/Problema_2.dir/main.cpp.obj	d9dafac6765d143e
+11	613	7321268438114694	CMakeFiles/Problema_2.dir/main.cpp.obj	d9dafac6765d143e
+6	955	7321268616103129	CMakeFiles/Problema_2.dir/Canvas.cpp.obj	6351b6a136859de5
+956	1220	7321268618613153	Problema_2.exe	c7d940affb77f46d
+7	825	7324431448502337	CMakeFiles/Problema_2.dir/main.cpp.obj	d9dafac6765d143e
+826	1310	7324431453283473	Problema_2.exe	c7d940affb77f46d
