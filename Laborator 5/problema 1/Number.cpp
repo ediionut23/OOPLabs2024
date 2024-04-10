@@ -154,6 +154,7 @@ Number::Number(const Number &d) {
 Number::Number(const Number &&d) {
     base = d.base;
     s = d.s;
+    delete[] d.s;
 }
 
 Number &Number::operator=(Number nr) {
