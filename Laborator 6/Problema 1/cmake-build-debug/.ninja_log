@@ -1,0 +1,24 @@
+# ninja log v5
+0	653	7344380619134949	CMakeFiles/lab6sapt7.dir/main.cpp.obj	5b0f0375d9a3fb17
+57	2141	7344381632747229	CMakeFiles/lab6sapt7.dir/Circuit.cpp.obj	9ed037d2fe63db31
+38	268	7344382319619599	CMakeFiles/lab6sapt7.dir/RangeRover.cpp.obj	ab4e45fd5f2474b
+24	271	7344382319619599	CMakeFiles/lab6sapt7.dir/Seat.cpp.obj	1e6be3cdaa04bd94
+17	272	7344382319619599	CMakeFiles/lab6sapt7.dir/BMW.cpp.obj	c129dd60cfabf7ed
+10	273	7344382319619599	CMakeFiles/lab6sapt7.dir/Volvo.cpp.obj	ed1ec78b97b085d7
+4	118	7344382485091137	CMakeFiles/lab6sapt7.dir/Fiat.cpp.obj	a181d6e030b8d6af
+119	528	7344382489096222	lab6sapt7.exe	258cdc32894ca298
+4	483	7344382594833717	CMakeFiles/lab6sapt7.dir/main.cpp.obj	5b0f0375d9a3fb17
+484	696	7344382596877863	lab6sapt7.exe	258cdc32894ca298
+4	123	7344382709800131	CMakeFiles/lab6sapt7.dir/Volvo.cpp.obj	ed1ec78b97b085d7
+124	330	7344382711770615	lab6sapt7.exe	258cdc32894ca298
+5	126	7344382906921465	CMakeFiles/lab6sapt7.dir/Volvo.cpp.obj	ed1ec78b97b085d7
+127	339	7344382908971459	lab6sapt7.exe	258cdc32894ca298
+4	121	7344382966720344	CMakeFiles/lab6sapt7.dir/Volvo.cpp.obj	ed1ec78b97b085d7
+122	354	7344382968951983	lab6sapt7.exe	258cdc32894ca298
+5	481	7344383214258466	CMakeFiles/lab6sapt7.dir/main.cpp.obj	5b0f0375d9a3fb17
+481	675	7344383216123249	lab6sapt7.exe	258cdc32894ca298
+4	129	7344383462361368	CMakeFiles/lab6sapt7.dir/RangeRover.cpp.obj	ab4e45fd5f2474b
+130	335	7344383464339250	lab6sapt7.exe	258cdc32894ca298
+12	134	7344383980490661	CMakeFiles/lab6sapt7.dir/RangeRover.cpp.obj	ab4e45fd5f2474b
+5	481	7344383983934637	CMakeFiles/lab6sapt7.dir/main.cpp.obj	5b0f0375d9a3fb17
+481	699	7344383986038694	lab6sapt7.exe	258cdc32894ca298
